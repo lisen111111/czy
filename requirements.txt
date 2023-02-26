@@ -1,0 +1,6 @@
+django-threadlocals
+pymysql
+click
+requests
+xlrd
+python-alipay-sdk
